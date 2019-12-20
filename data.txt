@@ -1,1 +1,1 @@
-Some info from a .txt file
+Some information from a .txt file
